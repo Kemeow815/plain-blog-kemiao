@@ -65,7 +65,7 @@ const tagsObj = personalTags.map((tag: string, index: number) => {
         <strong ref="authorRef" class="main-text ml-2.4rem mt--0.3em font-size-6">{{ author }}</strong>
       </p>
       <p class="m-0 my-2">
-        不应该随便给一个人打标签，但我觉得这样可以让你更快了解我
+        总有些事情高于其他。——克莱恩·莫雷蒂
       </p>
       <ul class="flex flex-wrap list-none gap-1 p-0">
         <li
