@@ -8,17 +8,17 @@ const themeStore = useThemeStore()
 const links = [
   {
     id: 1,
-    name: 'Posts',
+    name: '文章',
     link: '/posts',
   },
   {
     id: 2,
-    name: 'Tags',
+    name: '标签',
     link: '/tags',
   },
   {
     id: 3,
-    name: 'Friends',
+    name: '友链',
     link: '/friend',
   },
 ]
